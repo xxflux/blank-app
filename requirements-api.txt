@@ -1,0 +1,5 @@
+# FastAPI
+fastapi
+uvicorn
+# YouTube downloader
+yt-dlp
